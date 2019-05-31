@@ -1,0 +1,224 @@
+.nav{
+    background-color:#200720;
+    color:white;
+    width:5%; 
+}
+.div{
+    margin-left: 20px;
+}
+.navi{
+    background-color: #3f0d40;
+    color: white;
+    width: 20%;
+    margin-bottom: 0%;
+}
+.tk-19{
+    margin-left: 5%;
+}
+.main{
+    display: flex;
+}
+li a{
+    color:white;
+text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+.header-logos {
+    display: flex;
+    flex-direction: row;
+}
+.header-input{
+    margin-left:70%;
+}
+.header-logos i {
+    margin: 2px;
+    color: #c9c9c9;
+    border: 1px solid #c9c9c9;
+    padding: 4px;
+    border-left: white;
+    border-top: white;
+    border-bottom: white;
+
+}
+#main-area{
+    width: 750px;
+}
+
+#student-showcase header {
+    margin: 0px;
+}
+
+#student-showcase p {
+    color: #525152;
+}
+
+.header-input {
+    padding-top: 23px;
+}
+
+#student-showcase input {
+    background-color: white;
+color: #c9c9c9;
+border: 1px solid #c9c9c9;
+}
+
+#student-showcase i {
+    color: #c9c9c9;
+    font-size: 13px;
+}
+
+#student-showcase fieldset i {
+    font-size: 23px;
+
+}
+ 
+#student-showcase fieldset i:nth-child(2), .tick  {
+    color: red;
+    border: 2px solid #1d6d9c;
+    padding: 3px 7px;
+    border-radius: 22px;
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+#student-showcase fieldset i:nth-child(4), #student-showcase fieldset i:nth-child(3){
+    color: #fbd455;
+    border: 2px solid;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 32px;
+    background-color: #f6f6f6;
+    font-size: 20px;
+
+}
+
+fieldset {
+   padding: 30px 45px;
+    border-bottom: white;
+    border-left: white;
+    border-right: white;
+
+}
+
+legend {
+   text-align: center;
+}
+
+.logos-img {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.logos-img img{
+    height: 30px;
+    margin: 2px;
+}
+
+.logos-img p {
+    margin: 5px; 
+}
+
+#student-showcase .replies p{   
+    color: #4283b5;
+}
+
+.legend {
+    display: flex;
+    margin-top: 8px;
+
+}
+
+.legend img {
+    width: 38px;
+}
+
+.description h2, p{ 
+    margin: 5px;
+}
+
+ .view {
+    padding-left: 35px;
+    font-size: 18px;
+   color: #4e4d4e;
+}
+.view i{
+    color:maroon;
+}
+
+.tick {
+   width: 33px;
+}
+
+#student-showcase .tick i {
+    color: black;
+
+}
+
+.flex-box{
+    background-color: #fef9ec
+}
+
+.game-section img {
+    width: 342px;
+}
+
+.game-area {
+    padding-left: 30px;
+    background-color: #fef9ec;
+}
+
+.game-pic img {
+    width: 383px;
+}
+
+.w3school {
+    border: 3px solid #ae9aaf;
+    margin-left: 40px;
+    border-bottom: white;
+    border-top: white;
+    border-right: white;
+
+}
+
+.w3school p {
+    padding: 0px;
+}
+
+#typing {
+    display: flex;
+    padding-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+.input input {
+    padding: 15px;
+    border-right-color: white;
+    width: 600px;
+}
+
+#typing .input i {
+    font-size: 20px;
+}
+main {
+    display: flex;
+}
+
+.section1 {
+    padding: 20px 15px;
+}
+
+#game {
+    padding-left: 18px;
+}
+.about-showcase{
+    display: flex;
+}
+.channel-detail{
+    display:inline-block
+}
